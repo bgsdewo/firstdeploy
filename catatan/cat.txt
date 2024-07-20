@@ -21,3 +21,7 @@ export default function Layout({ children }: LayoutProps) {
     </html>
   );
 }
+
+//cara nge run pake server sendiri
+
+npx serve@latest out
