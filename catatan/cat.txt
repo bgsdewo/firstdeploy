@@ -25,3 +25,5 @@ export default function Layout({ children }: LayoutProps) {
 //cara nge run pake server sendiri
 
 npx serve@latest out
+
+node scripts/strapi-request.mjs
