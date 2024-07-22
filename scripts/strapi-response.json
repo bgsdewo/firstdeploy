@@ -1,252 +1,18 @@
 {
   "data": [
     {
-      "id": 1,
+      "id": 5,
       "attributes": {
-        "title": "Panduan Lengkap Mengenai Machine Learning: Dasar hingga Tingkat Lanj",
-        "description": "Pelajari dasar-dasar dan konsep lanjutan dari Machine Learning dalam panduan lengkap ini. Cocok untuk pemula dan profesional yang ingin memperdalam pengetahuan mereka.",
-        "body": "Machine Learning adalah salah satu cabang dari kecerdasan buatan yang memungkinkan komputer belajar dari data dan pengalaman tanpa perlu diprogram secara eksplisit",
-        "slug": "panduan-lengkap-mengenai-machine-learning-dasar-hingga-tingkat-lanj",
-        "createdAt": "2024-07-21T23:55:44.409Z",
-        "updatedAt": "2024-07-22T00:08:00.438Z",
-        "publishedAt": "2024-07-22T00:00:01.570Z",
+        "slug": "pengembangan-web-panduan-memilih-framework-terbaik-untuk-proyek-anda",
+        "title": "Pengembangan Web: Panduan Memilih Framework Terbaik untuk Proyek Anda",
+        "description": "Memilih framework yang tepat adalah langkah krusial dalam pengembangan web. Artikel ini membahas berbagai framework populer dan memberikan panduan untuk memilih yang terbaik sesuai kebutuhan proyek Anda.",
+        "publishedAt": "2024-07-22T00:13:09.086Z",
+        "body": "Dalam pengembangan web, framework memainkan peran penting dalam menentukan efisiensi dan kesuksesan proyek. Berikut ini adalah panduan untuk memilih framework yang tepat:",
         "image": {
           "data": {
-            "id": 3,
+            "id": 8,
             "attributes": {
-              "name": "image-1.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1920,
-              "height": 1280,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-1.jpg",
-                  "hash": "thumbnail_image_1_5660bc72cc",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 9.97,
-                  "sizeInBytes": 9966,
-                  "url": "/uploads/thumbnail_image_1_5660bc72cc.jpg"
-                },
-                "small": {
-                  "name": "small_image-1.jpg",
-                  "hash": "small_image_1_5660bc72cc",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 333,
-                  "size": 40.13,
-                  "sizeInBytes": 40132,
-                  "url": "/uploads/small_image_1_5660bc72cc.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-1.jpg",
-                  "hash": "medium_image_1_5660bc72cc",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 500,
-                  "size": 84.69,
-                  "sizeInBytes": 84692,
-                  "url": "/uploads/medium_image_1_5660bc72cc.jpg"
-                },
-                "large": {
-                  "name": "large_image-1.jpg",
-                  "hash": "large_image_1_5660bc72cc",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 143.42,
-                  "sizeInBytes": 143417,
-                  "url": "/uploads/large_image_1_5660bc72cc.jpg"
-                }
-              },
-              "hash": "image_1_5660bc72cc",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 441.64,
-              "url": "/uploads/image_1_5660bc72cc.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-07-22T00:07:57.325Z",
-              "updatedAt": "2024-07-22T00:07:57.325Z"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 2,
-      "attributes": {
-        "title": "Keamanan Cyber: Tips dan Trik Melindungi Data Anda dari Serangan",
-        "description": "Tingkatkan keamanan online Anda dengan memahami ancaman cyber dan langkah-langkah perlindungan efektif. Artikel ini memberikan panduan praktis untuk menjaga data Anda tetap aman.",
-        "body": "Di era digital ini, keamanan cyber menjadi semakin penting karena meningkatnya jumlah serangan cyber yang mengancam data pribadi dan perusahaan. Artikel ini akan membahas beberapa langkah praktis untuk melindungi data Anda",
-        "slug": "keamanan-cyber-tips-dan-trik-melindungi-data-anda-dari-serangan",
-        "createdAt": "2024-07-22T00:06:59.101Z",
-        "updatedAt": "2024-07-22T00:09:21.389Z",
-        "publishedAt": "2024-07-22T00:07:00.492Z",
-        "image": {
-          "data": {
-            "id": 4,
-            "attributes": {
-              "name": "image-2.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2070,
-              "height": 1382,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-2.jpg",
-                  "hash": "thumbnail_image_2_222f48db13",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 12.89,
-                  "sizeInBytes": 12893,
-                  "url": "/uploads/thumbnail_image_2_222f48db13.jpg"
-                },
-                "small": {
-                  "name": "small_image-2.jpg",
-                  "hash": "small_image_2_222f48db13",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 334,
-                  "size": 47.36,
-                  "sizeInBytes": 47356,
-                  "url": "/uploads/small_image_2_222f48db13.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-2.jpg",
-                  "hash": "medium_image_2_222f48db13",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 501,
-                  "size": 94.2,
-                  "sizeInBytes": 94195,
-                  "url": "/uploads/medium_image_2_222f48db13.jpg"
-                },
-                "large": {
-                  "name": "large_image-2.jpg",
-                  "hash": "large_image_2_222f48db13",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 668,
-                  "size": 155.05,
-                  "sizeInBytes": 155051,
-                  "url": "/uploads/large_image_2_222f48db13.jpg"
-                }
-              },
-              "hash": "image_2_222f48db13",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 526.64,
-              "url": "/uploads/image_2_222f48db13.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-07-22T00:09:18.331Z",
-              "updatedAt": "2024-07-22T00:09:18.331Z"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 3,
-      "attributes": {
-        "title": "Tren Teknologi Terbaru di Tahun 2024: Apa yang Harus Diperhatikan",
-        "description": "Tahun 2024 membawa banyak inovasi teknologi baru yang berpotensi mengubah cara kita hidup dan bekerja. Temukan tren teknologi terbaru dan bagaimana mereka mempengaruhi masa depan kita.",
-        "body": "Teknologi terus berkembang dengan cepat, dan tahun 2024 bukanlah pengecualian. Berikut ini adalah beberapa tren teknologi terbaru yang harus Anda perhatikan:",
-        "slug": "tren-teknologi-terbaru-di-tahun-2024-apa-yang-harus-diperhatikan",
-        "createdAt": "2024-07-22T00:10:05.829Z",
-        "updatedAt": "2024-07-22T00:12:11.702Z",
-        "publishedAt": "2024-07-22T00:10:06.522Z",
-        "image": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "image-3.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2070,
-              "height": 1380,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-3.jpg",
-                  "hash": "thumbnail_image_3_76430ae703",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 6.4,
-                  "sizeInBytes": 6403,
-                  "url": "/uploads/thumbnail_image_3_76430ae703.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-3.jpg",
-                  "hash": "medium_image_3_76430ae703",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 500,
-                  "size": 40.97,
-                  "sizeInBytes": 40971,
-                  "url": "/uploads/medium_image_3_76430ae703.jpg"
-                },
-                "small": {
-                  "name": "small_image-3.jpg",
-                  "hash": "small_image_3_76430ae703",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 333,
-                  "size": 21.29,
-                  "sizeInBytes": 21294,
-                  "url": "/uploads/small_image_3_76430ae703.jpg"
-                },
-                "large": {
-                  "name": "large_image-3.jpg",
-                  "hash": "large_image_3_76430ae703",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 66.9,
-                  "sizeInBytes": 66895,
-                  "url": "/uploads/large_image_3_76430ae703.jpg"
-                }
-              },
-              "hash": "image_3_76430ae703",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 250.87,
-              "url": "/uploads/image_3_76430ae703.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-07-22T00:10:03.342Z",
-              "updatedAt": "2024-07-22T00:10:03.342Z"
+              "url": "/uploads/image_5_9723aececf.jpg"
             }
           }
         }
@@ -255,166 +21,34 @@
     {
       "id": 4,
       "attributes": {
+        "slug": "revolusi-industri-4-0-bagaimana-teknologi-mengubah-dunia-kerja-dan-bisnis",
         "title": "Revolusi Industri 4.0: Bagaimana Teknologi Mengubah Dunia Kerja dan Bisnis",
         "description": "Revolusi Industri 4.0 membawa transformasi besar pada dunia kerja dan bisnis melalui teknologi canggih seperti AI, IoT, dan otomatisasi. Pelajari dampaknya dan bagaimana mempersiapkan diri untuk perubahan ini.",
-        "body": "Revolusi Industri 4.0 adalah fase baru dalam evolusi industri yang mengintegrasikan teknologi canggih untuk menciptakan lingkungan produksi yang lebih efisien dan terhubung. Artikel ini membahas pengaruh Revolusi Industri 4.0 pada dunia kerja dan bisnis:",
-        "slug": "revolusi-industri-4-0-bagaimana-teknologi-mengubah-dunia-kerja-dan-bisnis",
-        "createdAt": "2024-07-22T00:10:55.035Z",
-        "updatedAt": "2024-07-22T00:11:26.560Z",
         "publishedAt": "2024-07-22T00:11:26.558Z",
+        "body": "Revolusi Industri 4.0 adalah fase baru dalam evolusi industri yang mengintegrasikan teknologi canggih untuk menciptakan lingkungan produksi yang lebih efisien dan terhubung. Artikel ini membahas pengaruh Revolusi Industri 4.0 pada dunia kerja dan bisnis:",
         "image": {
           "data": {
             "id": 7,
             "attributes": {
-              "name": "image-4.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2069,
-              "height": 1381,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-4.jpg",
-                  "hash": "thumbnail_image_4_ac69ecff24",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 11.97,
-                  "sizeInBytes": 11967,
-                  "url": "/uploads/thumbnail_image_4_ac69ecff24.jpg"
-                },
-                "small": {
-                  "name": "small_image-4.jpg",
-                  "hash": "small_image_4_ac69ecff24",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 334,
-                  "size": 50.79,
-                  "sizeInBytes": 50785,
-                  "url": "/uploads/small_image_4_ac69ecff24.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-4.jpg",
-                  "hash": "medium_image_4_ac69ecff24",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 501,
-                  "size": 115.14,
-                  "sizeInBytes": 115142,
-                  "url": "/uploads/medium_image_4_ac69ecff24.jpg"
-                },
-                "large": {
-                  "name": "large_image-4.jpg",
-                  "hash": "large_image_4_ac69ecff24",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 204.11,
-                  "sizeInBytes": 204106,
-                  "url": "/uploads/large_image_4_ac69ecff24.jpg"
-                }
-              },
-              "hash": "image_4_ac69ecff24",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 776.59,
-              "url": "/uploads/image_4_ac69ecff24.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-07-22T00:11:22.320Z",
-              "updatedAt": "2024-07-22T00:11:22.320Z"
+              "url": "/uploads/image_4_ac69ecff24.jpg"
             }
           }
         }
       }
     },
     {
-      "id": 5,
+      "id": 3,
       "attributes": {
-        "title": "Pengembangan Web: Panduan Memilih Framework Terbaik untuk Proyek Anda",
-        "description": "Memilih framework yang tepat adalah langkah krusial dalam pengembangan web. Artikel ini membahas berbagai framework populer dan memberikan panduan untuk memilih yang terbaik sesuai kebutuhan proyek Anda.",
-        "body": "Dalam pengembangan web, framework memainkan peran penting dalam menentukan efisiensi dan kesuksesan proyek. Berikut ini adalah panduan untuk memilih framework yang tepat:",
-        "slug": "pengembangan-web-panduan-memilih-framework-terbaik-untuk-proyek-anda",
-        "createdAt": "2024-07-22T00:13:08.509Z",
-        "updatedAt": "2024-07-22T00:13:09.088Z",
-        "publishedAt": "2024-07-22T00:13:09.086Z",
+        "slug": "tren-teknologi-terbaru-di-tahun-2024-apa-yang-harus-diperhatikan",
+        "title": "Tren Teknologi Terbaru di Tahun 2024: Apa yang Harus Diperhatikan",
+        "description": "Tahun 2024 membawa banyak inovasi teknologi baru yang berpotensi mengubah cara kita hidup dan bekerja. Temukan tren teknologi terbaru dan bagaimana mereka mempengaruhi masa depan kita.",
+        "publishedAt": "2024-07-22T00:10:06.522Z",
+        "body": "Teknologi terus berkembang dengan cepat, dan tahun 2024 bukanlah pengecualian. Berikut ini adalah beberapa tren teknologi terbaru yang harus Anda perhatikan:",
         "image": {
           "data": {
-            "id": 8,
+            "id": 5,
             "attributes": {
-              "name": "image-5.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2075,
-              "height": 1376,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-5.jpg",
-                  "hash": "thumbnail_image_5_9723aececf",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 235,
-                  "height": 156,
-                  "size": 11.63,
-                  "sizeInBytes": 11631,
-                  "url": "/uploads/thumbnail_image_5_9723aececf.jpg"
-                },
-                "small": {
-                  "name": "small_image-5.jpg",
-                  "hash": "small_image_5_9723aececf",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 332,
-                  "size": 38.42,
-                  "sizeInBytes": 38420,
-                  "url": "/uploads/small_image_5_9723aececf.jpg"
-                },
-                "large": {
-                  "name": "large_image-5.jpg",
-                  "hash": "large_image_5_9723aececf",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 663,
-                  "size": 119.29,
-                  "sizeInBytes": 119288,
-                  "url": "/uploads/large_image_5_9723aececf.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-5.jpg",
-                  "hash": "medium_image_5_9723aececf",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 497,
-                  "size": 73.58,
-                  "sizeInBytes": 73578,
-                  "url": "/uploads/medium_image_5_9723aececf.jpg"
-                }
-              },
-              "hash": "image_5_9723aececf",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 570.36,
-              "url": "/uploads/image_5_9723aececf.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-07-22T00:13:05.460Z",
-              "updatedAt": "2024-07-22T00:13:05.460Z"
+              "url": "/uploads/image_3_76430ae703.jpg"
             }
           }
         }
@@ -424,8 +58,8 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 25,
-      "pageCount": 1,
+      "pageSize": 3,
+      "pageCount": 2,
       "total": 5
     }
   }
