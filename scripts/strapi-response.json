@@ -1,4 +1,5 @@
 {
+ fix-detached-head
   "data": [
     {
       "id": 5,
@@ -62,5 +63,13 @@
       "pageCount": 2,
       "total": 5
     }
+=======
+  "data": null,
+  "error": {
+    "status": 400,
+    "name": "ValidationError",
+    "message": "Invalid parameter author",
+    "details": {}
+ main
   }
 }
